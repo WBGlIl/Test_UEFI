@@ -1,5 +1,9 @@
 # Test_UEFI
 
+目标系统windows 10 21H1
+![image](https://user-images.githubusercontent.com/29301859/137125035-74a9f647-7336-4dc7-bd4c-6a1f2c8132cb.png)
+
+
 ## 相关参考
 
 https://github.com/SamuelTulach/rainbow
